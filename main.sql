@@ -1,1 +1,1 @@
-SELECT 'Hello,'||' SQL!';
+SELECT "name" FROM "cities";
